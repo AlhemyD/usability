@@ -1,0 +1,4 @@
+module QML_1_1
+typeinfo appQML_1_1.qmltypes
+prefer :/
+
