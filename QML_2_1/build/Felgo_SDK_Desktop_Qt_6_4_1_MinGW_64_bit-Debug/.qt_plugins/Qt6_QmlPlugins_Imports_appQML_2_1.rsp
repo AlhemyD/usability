@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1
+-cmake-output
+-output-file
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appQML_2_1.cmake
+-importPath
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/QML_2_1
+-importPath
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+C:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_QML_2_1.qrc
+C:/Users/Alhem/OneDrive/Документы/felgo_projects/QML_2_1/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_QML_2_1_copy.qrc
