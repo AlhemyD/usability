@@ -1,0 +1,4 @@
+module QML_6
+typeinfo appQML_6.qmltypes
+prefer :/
+
